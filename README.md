@@ -17,7 +17,10 @@ A simple **Sudoku game** implemented in Python. The game generates Sudoku puzzle
 - Generates Sudoku puzzles.
 - Interactive game play.
 - Checks for correct solutions.
+
+- 
 🖼️ **Preview:**
+
 ![Screenshot From 2025-02-22 12-39-02](https://github.com/user-attachments/assets/d731b502-bff9-491c-a532-6289d7d9d6d1)
 
 🔧 **How to Run:**
@@ -40,7 +43,10 @@ A **secure password manager** built with Python. This application stores and ret
 - Displays saved date.
 - Allows clearing of stored passwords.
 
-🖼️ **Preview:**![Screenshot From 2025-02-22 13-02-26](https://github.com/user-attachments/assets/2e8051d6-872f-461e-9bf7-c9b765fce038)
+🖼️ **Preview:**
+
+![Screenshot From 2025-02-22 13-02-26](https://github.com/user-attachments/assets/2e8051d6-872f-461e-9bf7-c9b765fce038)
+
 🔧 **How to Run:**
 ```sh
 python password_manager.py
