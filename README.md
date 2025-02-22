@@ -20,9 +20,9 @@ A simple **Sudoku game** implemented in Python. The game generates Sudoku puzzle
 
 
 📸 **Sudoku.py Screenshot:**
+
 ![Screenshot From 2025-02-22 12-39-02](https://github.com/user-attachments/assets/8a34ca4d-14b6-40e4-9c46-5a5559f98412)
   
-(*Replace with actual image path*)
 
 🔧 **How to Run:**
 ```sh
