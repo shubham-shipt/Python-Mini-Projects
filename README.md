@@ -1,15 +1,15 @@
 # 🖥️ Python Mini Projects
 
-Welcome to **Python Mini Projects**! 🚀 This repository is dedicated to small yet interesting Python projects to enhance programming skills. Currently, the repository contains one project, **Sudoku Game**, with more projects coming soon! Stay tuned. 🎯
+Welcome to **Python Mini Projects**! 🚀 This repository is dedicated to small yet interesting Python projects to enhance programming skills. Currently, the repository contains two projects, **Sudoku Game** and **Password Manager**, with more projects coming soon! Stay tuned. 🎯
 
 ---
 
 ## 📌 Projects List
 
-### 1️⃣ Sudoku Game 🎲🧩
+### 1️⃣ Sudoku Game 🎢🧩
 A simple **Sudoku game** implemented in Python. The game generates Sudoku puzzles and allows users to solve them interactively.
 
-📂 **Files:**
+📺 **Files:**
 - `sudoku.py` - Main script for the Sudoku game.
 - `README.md` - Documentation for the project.
 
@@ -18,11 +18,9 @@ A simple **Sudoku game** implemented in Python. The game generates Sudoku puzzle
 - Interactive game play.
 - Checks for correct solutions.
 
-
-📸 **Sudoku.py Screenshot:**
-
-![Screenshot From 2025-02-22 12-39-02](https://github.com/user-attachments/assets/8a34ca4d-14b6-40e4-9c46-5a5559f98412)
-  
+🖼️ **Preview:**
+![Sudoku Game Preview](path/to/your/image.png)  
+(*Replace with actual image path*)
 
 🔧 **How to Run:**
 ```sh
@@ -31,14 +29,37 @@ python sudoku.py
 
 ---
 
+### 2️⃣ Password Manager 🔑
+A **secure password manager** built with Python. This application stores and retrieves passwords securely using encryption.
+
+📺 **Files:**
+- `password_manager.py` - Main script for the password manager.
+- `README.md` - Documentation for the project.
+
+✅ **Features:**
+- Stores passwords securely.
+- Retrieves saved passwords.
+- Displays saved date.
+- Allows clearing of stored passwords.
+
+🖼️ **Preview:**
+![Password Manager Preview](path/to/your/image.png)  
+(*Replace with actual image path*)
+
+🔧 **How to Run:**
+```sh
+python password_manager.py
+```
+
+---
+
 ### 🚀 Upcoming Projects
-🔹 Project 2 - *Coming Soon...* 🛠️  
-🔹 Project 3 - *Coming Soon...* 🌟  
+🔹 Project 3 - *Coming Soon...* 🛠️  
 🔹 More Projects - *Stay Tuned!* 🎯
 
 ---
 
-## 📜 License
+## 🐝 License
 This project is open-source and available under the **MIT License**.
 
 ## 💡 Contributions
@@ -46,4 +67,3 @@ Want to contribute? Feel free to fork the repo and submit a pull request! 🎉
 
 ## 🌎 Connect
 📩 Feel free to reach out for any suggestions or contributions!
-
