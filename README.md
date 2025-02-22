@@ -44,8 +44,7 @@ A **secure password manager** built with Python. This application stores and ret
 
 🎮 **Preview:**
 
-![Screenshot From 2025-02-22 13-42-27](https://github.com/user-attachments/assets/d92cc107-f8aa-43b7-b4f0-c7ce7ad97471)
-
+![Screenshot From 2025-02-22 13-02-26](https://github.com/user-attachments/assets/2e8051d6-872f-461e-9bf7-c9b765fce038)
 
 🔧 **How to Run:**
 ```sh
