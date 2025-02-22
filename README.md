@@ -68,7 +68,8 @@ A **text-to-speech converter** built with Python that transforms written text in
 
 🎮 **Preview:**
 
-![Screenshot From 2025-02-22 14-15-45](https://github.com/user-attachments/assets/3f9a1d26-8d6f-4c8b-ae27-67e123f7b9e4)
+![Screenshot From 2025-02-22 13-42-27](https://github.com/user-attachments/assets/7923590a-c5be-4e37-901d-9c404e711b78)
+
 
 🔧 **How to Run:**
 ```sh
