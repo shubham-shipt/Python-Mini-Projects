@@ -84,11 +84,7 @@ python text_to_speech.py
 
 ---
 
-## 🐝 License
-This project is open-source and available under the **MIT License**.
-
 ## 💡 Contributions
-Want to contribute? Feel free to fork the repo and submit a pull request! 🎉
+Feel free to fork the repo and submit a pull request! 🎉
 
-## 🌎 Connect
-📩 Feel free to reach out for any suggestions or contributions!
+
