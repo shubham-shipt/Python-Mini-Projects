@@ -8,7 +8,7 @@ class SudokuGame:
         self.root.title("Sudoku Game - By Shubham")
         self.root.geometry("500x600")
         self.root.resizable(False, False)
-        self.root.configure(bg='#0F0F0F')  # Dark hacker theme
+        self.root.configure(bg='#0F0F0F')  
 
         self.board = [
             [5, 3, 0, 0, 7, 0, 0, 0, 0],
@@ -56,10 +56,10 @@ class SudokuGame:
         if value.isdigit() and 1 <= int(value) <= 9:
             self.board[row][col] = int(value)
             if self.is_valid(row, col):
-                entry.config(fg='#33FF33')  # Green if valid
+                entry.config(fg='#33FF33')  
                 self.score += 10
             else:
-                entry.config(fg='#FF3333')  # Red if invalid
+                entry.config(fg='#FF3333')  
                 self.score -= 5
         else:
             entry.config(fg='#FF3333')
